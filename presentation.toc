@@ -1,0 +1,9 @@
+\select@language {brazil}
+\beamer@sectionintoc {1}{Introduction }{3}{0}{1}
+\beamer@sectionintoc {2}{Machine learning }{14}{0}{2}
+\beamer@sectionintoc {3}{ML applications}{18}{0}{3}
+\beamer@sectionintoc {4}{Learning types}{31}{0}{4}
+\beamer@sectionintoc {5}{Machine learning concepts}{51}{0}{5}
+\beamer@sectionintoc {6}{Advanced ML applications}{56}{0}{6}
+\beamer@sectionintoc {7}{ Ressrouces }{60}{0}{7}
+\beamer@sectionintoc {8}{Questions}{63}{0}{8}
